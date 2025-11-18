@@ -1,0 +1,52 @@
+
+
+ section {
+            padding: 60px 0;
+            background-color:blanchedalmond;
+        }
+
+    h1 {
+            margin-bottom: 30px;
+            font-weight: 600;
+        }
+
+    h3 {
+            margin-top: 40px;
+            margin-bottom: 15px;
+        }
+
+
+    .card {
+            margin: 40px auto;
+        }
+
+    footer {
+            background: #f8f9fa;
+            padding: 40px 0;
+            margin-top: 50px;
+            text-align: center;
+        }
+
+
+    footer div {
+            margin: 8px 0;
+            
+        }
+
+    p{
+        padding: 10px;
+        margin: auto
+    }
+    footer a {
+            text-decoration: none;
+            color: #0d6efd;
+        }
+    .carousel-inner{
+        width: 900px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin: auto;
+        border-radius: 10px;
+    }
